@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <name>Responsiva PDF</name>
+    <key>responsiva</key>
+    <state>stable</state> <!-- stable | unstable | beta | alpha -->
+    <logo>https://raw.githubusercontent.com/Jawuilp/pluign-extend/main/assets/pdf.png</logo>
+    <description>
+        <short>
+            <en>Plugin to generate responsiva PDFs within GLPI.</en>
+            <es>Plugin para generar PDFs de cartas responsivas en GLPI.</es>
+        </short>
+        <long>
+            <en>
+                This plugin allows you to generate responsiva PDFs for equipment and tool management in GLPI.
+                It uses the TCPDF library for customizable PDF generation.
+            </en>
+            <es>
+                Este plugin permite generar PDFs de cartas responsivas para el manejo de equipos y herramientas en GLPI.
+                Utiliza la librería TCPDF para una generación personalizable de documentos PDF.
+            </es>
+        </long>
+    </description>
+    <homepage>https://github.com/Jawuilp/pluign-extend</homepage>
+    <download>https://github.com/Jawuilp/pluign-extend/archive/refs/heads/main.zip</download>
+    <issues>https://github.com/Jawuilp/pluign-extend/issues</issues>
+    <readme>https://github.com/Jawuilp/pluign-extend/blob/main/README.md</readme>
+    <authors>
+        <author>Tu Nombre</author>
+    </authors>
+    <versions>
+        <version>
+            <num>1.0.0</num>
+            <compatibility>~10.0.0</compatibility>
+            <download_url>https://github.com/Jawuilp/pluign-extend/archive/refs/heads/main.zip</download_url>
+        </version>
+    </versions>
+    <langs>
+        <lang>en_GB</lang>
+        <lang>es_ES</lang>
+    </langs>
+    <license>GPLv3</license>
+    <tags>
+        <en>
+            <tag>PDF</tag>
+            <tag>GLPI</tag>
+            <tag>Responsiva</tag>
+        </en>
+        <es>
+            <tag>PDF</tag>
+            <tag>GLPI</tag>
+            <tag>Responsiva</tag>
+        </es>
+    </tags>
+</root>
